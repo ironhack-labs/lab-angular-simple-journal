@@ -4,7 +4,7 @@
 
 ## Introduction
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_5bece35217249aa751825ce60429fb48.jpg)
+![](images/journal.jpg)
 
 
 Quite a few people keep a journal, as there are [many benefits to doing so](https://psychcentral.com/lib/the-health-benefits-of-journaling/), including better self awareness, stress relief, and increased problem solving capabilities.
